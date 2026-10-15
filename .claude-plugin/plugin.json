@@ -1,0 +1,13 @@
+{
+  "name": "recording-demo-videos",
+  "description": "Record scripted, narrated demo videos of any web app with Playwright: on-screen captions, highlights, and optional offline AI voice-over (English or Portuguese), mp4 output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vinicius Ribeiro",
+    "url": "https://github.com/vribeirocmp"
+  },
+  "homepage": "https://github.com/vribeirocmp/recording-demo-videos",
+  "repository": "https://github.com/vribeirocmp/recording-demo-videos",
+  "license": "MIT",
+  "keywords": ["demo", "video", "playwright", "screen-recording", "tts", "voice-over", "narration", "kokoro", "pitch", "walkthrough"]
+}

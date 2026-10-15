@@ -1,0 +1,19 @@
+1
+00:00:00,687 --> 00:00:08,196
+recording-demo-videos — a Claude Code skill — this whole video was scripted, recorded and narrated by AI
+
+2
+00:00:08,898 --> 00:00:15,874
+Real interactions, typed on screen — Playwright drives a real browser
+
+3
+00:00:16,590 --> 00:00:20,771
+Highlights guide the viewer's eye — an amber outline before every click
+
+4
+00:00:21,476 --> 00:00:28,068
+The voice sets the pace — each scene lasts exactly as long as its narration
+
+5
+00:00:28,781 --> 00:00:33,496
+One command: /recording-demo-videos audio — English or Portuguese · offline voice · mp4 + subtitles
